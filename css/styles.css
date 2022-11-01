@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+    background-color: rgb(85, 161, 161);
+    color: #fff;
+}
+
+footer a {
+    margin: 0 15px;
+}
+
+img {
+    margin-bottom: 20px;
+}
